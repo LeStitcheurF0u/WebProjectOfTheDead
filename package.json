@@ -1,0 +1,24 @@
+{
+  "name": "webprojectofthedead",
+  "version": "1.0.0",
+  "description": "Projet AFPA DWWM",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeStitcheurF0u/WebProjectOfTheDead.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeStitcheurF0u/WebProjectOfTheDead/issues"
+  },
+  "homepage": "https://github.com/LeStitcheurF0u/WebProjectOfTheDead#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "vue": "^3.2.37"
+  }
+}
